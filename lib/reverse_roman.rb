@@ -17,6 +17,3 @@ require ('to_roman')
     result
   end
 
-
-
-puts reverse_roman('MMXIV')
